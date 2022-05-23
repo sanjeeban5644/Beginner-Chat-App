@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="enter_email">Enter email :</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">SiGN IN</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="enter_name">Enter Name :</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_image">Add Image</string>
+    <string name="signinnext">SIGN IN</string>
+    <string name="signbacktext">Sign In</string>
+    <string name="back_to_sign_in">BACK TO SIGN IN</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in_bac">SIGN IN</string>
+    <string name="enter_your_name">Enter Your Name :</string>
+
+</resources>
